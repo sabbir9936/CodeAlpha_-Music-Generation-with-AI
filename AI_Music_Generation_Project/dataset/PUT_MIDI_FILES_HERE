@@ -1,1 +1,2 @@
-
+Place your .mid or .midi training files in this folder.
+Alternatively, run python create_demo_dataset.py from the project root to create synthetic demo data.
